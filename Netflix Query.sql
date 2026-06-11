@@ -3,9 +3,9 @@ CREATE TABLE netflix_titles (
     type VARCHAR(10),
     title TEXT,
     director TEXT,
-    cast_members TEXT,      -- Renamed from 'cast'
+    cast_members TEXT,      
     country TEXT,
-    date_added TEXT,        -- Changed to TEXT for safe import
+    date_added TEXT,       
     release_year INT,
     rating VARCHAR(10),
     duration TEXT,
