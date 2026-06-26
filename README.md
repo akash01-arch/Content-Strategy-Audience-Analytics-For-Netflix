@@ -1,7 +1,7 @@
 # Content-Strategy-Audience-Analytics-for-Netflix
 Data-Driven Content Strategy: Unlocking $500M value Analysis of Netflix’s content strategy and audience trends using Python and data visualization.
 
-### **Project Overvie**
+### **Project Overview**
 - **Domain:** Media & Entertainment Analytics
 - **Duration:** February 2026
 - **Dataset:** 8,800+ Netflix titles
