@@ -39,6 +39,7 @@ FROM 'E:\Netflix Project\clean-netflix-dataset.csv'
 DELIMITER ','
 CSV HEADER;
 
+
 CREATE INDEX idx_type ON netflix_titles(type);
 CREATE INDEX idx_year_added ON netflix_titles(year_added);
 CREATE INDEX idx_primary_country ON netflix_titles(primary_country);
